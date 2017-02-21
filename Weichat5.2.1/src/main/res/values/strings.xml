@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weichat5.2.1</string>
+    <string name="wechat">微信</string>
+    <string name="微信图标">微信图标</string>
+    <string name="搜索图标">搜索图标</string>
+    <string name="add图标">add图标</string>
+    <string name="more图标">more图标</string>
+    <string name="tabline">tabline</string>
+    <string name="聊天">聊天</string>
+    <string name="发现">发现</string>
+    <string name="通讯录">通讯录</string>
+    <string name="FirstFragment">This is first fragment!</string>
+    <string name="SecondFragment">This is second fragment!</string>
+    <string name="ThirdFragment">This is third fragment!</string>
+</resources>

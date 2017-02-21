@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SendMessage</string>
+    <string name="发送">发送</string>
+    <string name="添加联系人">添加联系人</string>
+    <string name="发送中">发送中……</string>
+    <string name="编辑短信内容">编辑短信内容</string>
+</resources>
